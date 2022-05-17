@@ -1,0 +1,43 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+
+<!--  servlet declaring-->
+<!--  <servlet>-->
+<!--    <servlet-name>first</servlet-name>-->
+<!--    <servlet-class>servletFirstApp.firstservlet</servlet-class>-->
+<!--  </servlet>-->
+
+
+<!--&lt;!&ndash;  mapping&ndash;&gt;-->
+<!--  <servlet-mapping>-->
+<!--    <servlet-name>first</servlet-name>-->
+<!--    <url-pattern>/form</url-pattern>-->
+<!--  </servlet-mapping>-->
+
+
+
+  <servlet>
+    <servlet-name>register</servlet-name>
+    <servlet-class>servletFirstApp.register</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>register</servlet-name>
+    <url-pattern>/registerServlet</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>showAll</servlet-name>
+    <servlet-class>servletFirstApp.showdata</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>showAll</servlet-name>
+    <url-pattern>/allusers</url-pattern>
+  </servlet-mapping>
+
+  <display-name>Archetype Created Web Application</display-name>
+</web-app>
