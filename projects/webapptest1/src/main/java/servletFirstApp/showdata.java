@@ -9,7 +9,7 @@ public class showdata extends HttpServlet {
         res.setContentType("text/html");
         PrintWriter out = res.getWriter();
 
-        out.print("hello");
+//        out.print("hello");
         try{
             Connection con = DatabaseConnection.createC();
             PreparedStatement ps = con.prepareStatement("select * from servletdata");

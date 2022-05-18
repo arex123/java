@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+ <h2>Fill the form</h2>
 
 <div>
   <form action="registerServlet" method="post">
