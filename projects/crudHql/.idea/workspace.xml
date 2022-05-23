@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="996fb866-bdb7-4294-b317-53daa6491a73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Student.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../howIDidIt.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../howIDidIt.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29ZVxA1grL3CNL8swI3LSqfmWHH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\traqiq Aditya\projects\crudHql\src\main\resources" />
+      <recent name="E:\traqiq Aditya\projects\crudHql\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="insert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.insert" />
+      <module name="crudHql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.insert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="996fb866-bdb7-4294-b317-53daa6491a73" name="Changes" comment="" />
+      <created>1653320840912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653320840912</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
