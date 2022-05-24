@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="996fb866-bdb7-4294-b317-53daa6491a73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Student.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../howIDidIt.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../howIDidIt.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizportal/quizfront/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../quizportal/quizfront/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/client/insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client/insert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

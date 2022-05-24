@@ -47,4 +47,8 @@ public class insert {
     }
 }
 
+/*
+* error aarha h last error ye resolve kar rha tha:  https://stackoverflow.com/questions/35725306/org-hibernate-internal-util-config-configurationexception-could-not-locate-cfg
+* */
+
 /*https://roytuts.com/how-to-create-java-based-hibernate-configurations/*/
